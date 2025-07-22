@@ -41,4 +41,15 @@
 
 ---
 
+# 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sangram-tech&show_icons=true&theme=radical" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=sangram-tech&theme=radical&date_format=M%20j%5B%2C%20Y%5D" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sangram-tech&theme=react-dark" width="95%" />
+</p>
+
 > “Code daily. Learn constantly. Grow silently.” 🌱
