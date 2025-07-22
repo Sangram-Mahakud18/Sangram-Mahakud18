@@ -37,7 +37,7 @@
 
 - **Email**: youremail@gmail.com  
 - **LinkedIn**: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)  
-- **GitHub**: [github.com/sangram-tech](https://github.com/sangram-tech)
+- **GitHub**: [github.com/sangram-tech](https://github.com/Sangram-Mahakud18)
 
 ---
 
